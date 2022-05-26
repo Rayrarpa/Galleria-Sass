@@ -170,6 +170,10 @@ body {
     #card-9 {
         @include mixins.bg-img('refeicoes.jpg');
     }
+
+    #card-10 {
+        @include mixins.bg-img('cabra.jpg');
+    }
 }
 
 footer {
